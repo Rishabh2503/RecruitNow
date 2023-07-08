@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   
     function redirectToHomepage() {
-      window.location.href = '../../home/index.html';
+      window.location.href = './home/index.html';
     }
   });
   
